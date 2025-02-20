@@ -2,6 +2,8 @@
 I am working to be professional web developer and app developer<br>I have intermediate knowledge in some coding languages<br>I code 4 hours a day<br><br> Website Protfolio = https://fraolzenith-x-1.vercel.app/ 💥<br>
 <br> Website Age Calculator = https://fraolagecalculator.netlify.app/ 🔥<br>
 
+<br> Website simple chatbot of Fraol Zenith-X for window customization 
+= https://fraolzenithxchat.netlify.app/. 🤩
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/big_renan_man) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fraol-teshome-89b37434b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/fraolteshome123) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aggravating-Carob752) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:29517231) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@neil5012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fraolteshome123@gmail.com) 
